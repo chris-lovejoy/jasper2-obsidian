@@ -1,12 +1,24 @@
-- name: Home
-  link: /
-  class: nav-home
-- name: About
-  link: /about
+- name: Start Here
+  link: /about-me
   class: nav-about
-- name: Blog
-  link: /blog.html
+- name: Medicine
+  link: /medicine
   class: 
-- name: Topics
-  link: /topics.html
+- name: Machine Learning
+  link: /ml-medics
+  class: 
+- name: Email Newsletter
+  link: https://chrislovejoy.substack.com/
+  class: 
+- name: YouTube
+  link: https://www.youtube.com/c/ChrisLovejoy
+  class: 
+- name: Publications
+  link: https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ
+  class: 
+- name: Books
+  link: /books
+  class: 
+- name: Services
+  link: /services
   class: 
