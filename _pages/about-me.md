@@ -1,10 +1,10 @@
 ---
 layout: page
 current: about
+cover: assets/images/CL.png
 title: About Me
 navigation: true
 permalink: about-me
-logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
