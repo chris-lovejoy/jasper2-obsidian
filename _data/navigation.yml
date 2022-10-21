@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+  class: nav-home
+- name: About
+  link: /about
+  class: nav-about
+- name: Blog
+  link: /blog.html
+  class: 
+- name: Topics
+  link: /topics.html
+  class: 

@@ -3,6 +3,7 @@ layout: page
 current: about
 title: About
 navigation: true
+permalink: about
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
