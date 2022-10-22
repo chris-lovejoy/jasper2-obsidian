@@ -13,7 +13,9 @@ author: chris-lovejoy
 ---
 
 
-The amount that you learn largely determines the quality of life that you live. I am not talking about ‘learning’ in a purely academic sense, or the learning of purely factual information, but rather learning things that enable you to live well in work, social life and beyond. Everything that you are able to do, from speech and the ability to walk to forming opinions and performing complex tasks, is something that you have learnt at some point during your life. We have a very limited amount of time on earth and the faster we are able to learn, the more progress we will be able to make during our short lifespans. Ultimately, our rate of learning determines our happiness and fulfilment in life.
+The amount that you learn largely determines the quality of life that you live. 
+
+I am not talking about ‘learning’ in a purely academic sense, or the learning of purely factual information, but rather learning things that enable you to live well in work, social life and beyond. Everything that you are able to do, from speech and the ability to walk to forming opinions and performing complex tasks, is something that you have learnt at some point during your life. We have a very limited amount of time on earth and the faster we are able to learn, the more progress we will be able to make during our short lifespans. Ultimately, our rate of learning determines our happiness and fulfilment in life.
 
 To that end, the following 6-step guide collates information from numerous sources to detail the core cycle of deliberate learning, with advice on how to increase efficiency at each step:
 
@@ -73,12 +75,8 @@ Other ways that you can increase that rate at which you learn include:
 -   Ask other people for feedback. Be accepting of this feedback! If someone is giving you criticism or something you don’t agree with, don’t step in and defend yourself — keep silent for as long as you can and then reflect on what they have told you. Aim to view yourself as objectively as possible.
 -   Always be open to new tips and advice on how to learn. The best approach is to cherry-pick from the inexhaustible information that is out there — try things you hear about and if they work, use them and if they don’t, discard them.
 
-![](/content/images/downloaded_images/How-To-Learn-Faster-In-Six-Steps/1-eyhYvAIkeYev6qKBB5APzg.png)
+![6-steps-learn-faster](/assets/images/learn-faster-cycle.png){:class="img-responsive"}
 
 Congratulations on making it to the end of this article. However, having read this article will mean nothing if you don’t apply it. Print this off and put it on your wall, by your desk, or somewhere else where you will see it often. Save it on your phone. Repeat these six steps over and over until it becomes second nature — in the words of the [wise Uncle Drew](https://www.youtube.com/watch?v=spDdO_ZB-lE):
 
 > “Master the fundamentals, so you can forget them. Then you can improvise and just concentrate on what really matters.”
-
-![](/content/images/downloaded_images/How-To-Learn-Faster-In-Six-Steps/1-5Ql-EO7JgqzJnpwbyzcQpw.png)
-
-Contact me at christopher.lovejoy@hotmail.com and [chrislovejoy.me](http://chrislovejoy.me).
