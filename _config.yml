@@ -72,8 +72,8 @@ lsi: False
 username: chris-lovejoy
 repo: jasper2-obsidian
 branch: master
-relative_source: ../jasper2-obsidian/
-destination: ../jasper2-pages/
+relative_source: ./jasper2-obsidian/
+destination: ./_site/
 production_url:  https://chris-lovejoy.github.io/jasper2-obsidian/
 source_url:  https://github.com/chris-lovejoy/jasper2-obsidian
 
