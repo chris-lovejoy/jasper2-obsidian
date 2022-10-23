@@ -5,6 +5,7 @@ cover:  assets/images/article-covers/facing-board.jpeg
 navigation: True
 title: Making the most of free moments
 permalink: moments
+redirect_from:
 date: 2017-11-18 00:00:00
 tags: [Productivity]
 class: post-template
